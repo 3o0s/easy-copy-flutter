@@ -12,5 +12,5 @@ So I decieded to create this simple app.
   cloud_firestore
 
 ## future upadtes:
-  Add login page.
-  add support for file trasport.
+  Add login page
+  add support for file trasport
